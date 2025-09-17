@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HiddenGems.WebUI.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Infrastructure.deps.json
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Infrastructure.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Infrastructure.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Application.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Domain.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Application.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\bin\Debug\net8.0\HiddenGems.Domain.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.AssemblyInfo.cs
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGe.F739C121.Up2Date
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\refint\HiddenGems.Infrastructure.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\HiddenGems.Infrastructure.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Infrastructure\obj\Debug\net8.0\ref\HiddenGems.Infrastructure.dll

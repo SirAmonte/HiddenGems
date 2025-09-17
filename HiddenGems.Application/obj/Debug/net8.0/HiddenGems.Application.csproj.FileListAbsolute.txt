@@ -1,0 +1,15 @@
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\bin\Debug\net8.0\HiddenGems.Application.deps.json
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\bin\Debug\net8.0\HiddenGems.Application.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\bin\Debug\net8.0\HiddenGems.Application.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\bin\Debug\net8.0\HiddenGems.Domain.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\bin\Debug\net8.0\HiddenGems.Domain.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.csproj.AssemblyReference.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.AssemblyInfoInputs.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.AssemblyInfo.cs
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.csproj.CoreCompileInputs.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGe.2EB3C626.Up2Date
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\refint\HiddenGems.Application.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\HiddenGems.Application.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Application\obj\Debug\net8.0\ref\HiddenGems.Application.dll

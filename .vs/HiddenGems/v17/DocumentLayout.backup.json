@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\controllers\\gemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\controllers\\gemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\rating\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\rating\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\gem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\gem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\gem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\gem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\gem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\gem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\gem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\gem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\views\\favorite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\views\\favorite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\viewmodels\\updategemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\viewmodels\\updategemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\viewmodels\\listgemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\viewmodels\\listgemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\viewmodels\\creategemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\viewmodels\\creategemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.webui\\viewmodels\\createratingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE3A23-AA99-4350-A183-6D4A32280932}|HiddenGems.WebUI\\HiddenGems.WebUI.csproj|solutionrelative:hiddengems.webui\\viewmodels\\createratingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|solutionrelative:hiddengems.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.infrastructure\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|solutionrelative:hiddengems.infrastructure\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.infrastructure\\repositories\\gemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|solutionrelative:hiddengems.infrastructure\\repositories\\gemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|solutionrelative:hiddengems.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.infrastructure\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|solutionrelative:hiddengems.infrastructure\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C752AC-175F-4EB0-9CB1-E2D5908E3C50}|HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj|solutionrelative:hiddengems.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D577F7-CB89-4227-9A6F-9BB95B55203F}|HiddenGems.Domain\\HiddenGems.Domain.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.domain\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D577F7-CB89-4227-9A6F-9BB95B55203F}|HiddenGems.Domain\\HiddenGems.Domain.csproj|solutionrelative:hiddengems.domain\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D577F7-CB89-4227-9A6F-9BB95B55203F}|HiddenGems.Domain\\HiddenGems.Domain.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.domain\\entities\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D577F7-CB89-4227-9A6F-9BB95B55203F}|HiddenGems.Domain\\HiddenGems.Domain.csproj|solutionrelative:hiddengems.domain\\entities\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D577F7-CB89-4227-9A6F-9BB95B55203F}|HiddenGems.Domain\\HiddenGems.Domain.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D577F7-CB89-4227-9A6F-9BB95B55203F}|HiddenGems.Domain\\HiddenGems.Domain.csproj|solutionrelative:hiddengems.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.application\\services\\hiddengems\\ihiddengemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|solutionrelative:hiddengems.application\\services\\hiddengems\\ihiddengemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.application\\services\\hiddengems\\hiddengemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|solutionrelative:hiddengems.application\\services\\hiddengems\\hiddengemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.application\\services\\hiddengems\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|solutionrelative:hiddengems.application\\services\\hiddengems\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.application\\common\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|solutionrelative:hiddengems.application\\common\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.application\\common\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|solutionrelative:hiddengems.application\\common\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|c:\\users\\teoma\\documents\\ti\\business applications\\hiddengems\\hiddengems\\hiddengems.application\\common\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B902C2-D74B-40D8-BAF8-3D38253E7068}|HiddenGems.Application\\HiddenGems.Application.csproj|solutionrelative:hiddengems.application\\common\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Rating\\Create.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Rating\\Create.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Rating\\Create.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Rating\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T13:58:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T17:54:50.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Program.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:11:14.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Create.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Gem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Create.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Gem\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T21:56:33.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Favorite\\Index.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Favorite\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Favorite\\Index.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Favorite\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:31:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GemController.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Controllers\\GemController.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Controllers\\GemController.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Controllers\\GemController.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\Controllers\\GemController.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAUwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:45:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:00:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:09:46.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T22:33:17.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Index.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Gem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Index.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Gem\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:15:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Gem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Edit.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Gem\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T15:40:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Details.cshtml",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\Views\\Gem\\Details.cshtml",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\Views\\Gem\\Details.cshtml",
+              "RelativeToolTip": "HiddenGems.WebUI\\Views\\Gem\\Details.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:13:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateGemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\UpdateGemViewModel.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\ViewModels\\UpdateGemViewModel.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\UpdateGemViewModel.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\ViewModels\\UpdateGemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:29:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListGemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\ListGemViewModel.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\ViewModels\\ListGemViewModel.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\ListGemViewModel.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\ViewModels\\ListGemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:46:48.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateGemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\CreateGemViewModel.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\ViewModels\\CreateGemViewModel.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\CreateGemViewModel.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\ViewModels\\CreateGemViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA2wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:48:42.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateRatingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\CreateRatingViewModel.cs",
+              "RelativeDocumentMoniker": "HiddenGems.WebUI\\ViewModels\\CreateRatingViewModel.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\ViewModels\\CreateRatingViewModel.cs",
+              "RelativeToolTip": "HiddenGems.WebUI\\ViewModels\\CreateRatingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:08:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "HiddenGems.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vxQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:30:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Infrastructure\\Repositories\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\RatingRepository.cs",
+              "RelativeToolTip": "HiddenGems.Infrastructure\\Repositories\\RatingRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:14:50.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\GemRepository.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Infrastructure\\Repositories\\GemRepository.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\GemRepository.cs",
+              "RelativeToolTip": "HiddenGems.Infrastructure\\Repositories\\GemRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvzoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:12:00.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "HiddenGems.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:14:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Infrastructure\\Repositories\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Repositories\\FavoriteRepository.cs",
+              "RelativeToolTip": "HiddenGems.Infrastructure\\Repositories\\FavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:54:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HiddenGems.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:25:24.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Domain\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\Entities\\Rating.cs",
+              "RelativeToolTip": "HiddenGems.Domain\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:25:28.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Gem.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\Entities\\Gem.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Domain\\Entities\\Gem.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\Entities\\Gem.cs",
+              "RelativeToolTip": "HiddenGems.Domain\\Entities\\Gem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:35:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "HiddenGems.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:11:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IHiddenGemsService.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Services\\HiddenGems\\IHiddenGemsService.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Application\\Services\\HiddenGems\\IHiddenGemsService.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Services\\HiddenGems\\IHiddenGemsService.cs",
+              "RelativeToolTip": "HiddenGems.Application\\Services\\HiddenGems\\IHiddenGemsService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:55:27.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HiddenGemsService.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Services\\HiddenGems\\HiddenGemsService.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Application\\Services\\HiddenGems\\HiddenGemsService.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Services\\HiddenGems\\HiddenGemsService.cs",
+              "RelativeToolTip": "HiddenGems.Application\\Services\\HiddenGems\\HiddenGemsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:10:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Services\\HiddenGems\\FileUploadService.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Application\\Services\\HiddenGems\\FileUploadService.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Services\\HiddenGems\\FileUploadService.cs",
+              "RelativeToolTip": "HiddenGems.Application\\Services\\HiddenGems\\FileUploadService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:24:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Common\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Application\\Common\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Common\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "HiddenGems.Application\\Common\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:56:02.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Common\\Repositories\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Application\\Common\\Repositories\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Common\\Repositories\\IFavoriteRepository.cs",
+              "RelativeToolTip": "HiddenGems.Application\\Common\\Repositories\\IFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:56:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Common\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "HiddenGems.Application\\Common\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\Common\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "HiddenGems.Application\\Common\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:57:01.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿@model HiddenGems.WebUI.ViewModels.CreateRatingViewModel
+@{
+	ViewData["Title"] = "Beoordeling Toevoegen";
+}
+
+<h1>Beoordeling Toevoegen</h1>
+
+<hr/>
+
+<form method="post" asp-action="Create" asp-controller="Rating" class="mt-4">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input type="hidden" asp-for="GemId" />
+    <div class="mb-3">
+        <label asp-for="Stars" class="form-label">Jouw beoordeling:</label>
+        <select asp-for="Stars" class="form-select" required>
+            <option value="">-- Kies een score --</option>
+            <option value="5">★★★★★ (5)</option>
+            <option value="4">★★★★☆ (4)</option>
+            <option value="3">★★★☆☆ (3)</option>
+            <option value="2">★★☆☆☆ (2)</option>
+            <option value="1">★☆☆☆☆ (1)</option>
+        </select>
+        <span asp-validation-for="Stars" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Comment" for="" class="form-label">Opmerking:</label>
+        <textarea asp-for="Comment" class="form-control" rows="3" placeholder="Wat vond je ervan?"></textarea>
+        <span asp-validation-for="Comment" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Beoordeling toevoegen</button>
+</form>

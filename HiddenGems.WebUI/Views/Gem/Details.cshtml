@@ -1,0 +1,129 @@
+﻿@model HiddenGems.WebUI.ViewModels.CreateGemViewModel
+@{
+	ViewData["Title"] = "Gem Details";
+}
+
+<h2>@Model.Name</h2>
+
+<hr/>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-5 mb-4 mb-md-0">
+            <div class="border rounded overflow-hidden" style="max-height: 300px;">
+                <img src="@Model.ImageURL" class="img-fluid w-100 h-100" style="object-fit: cover;" alt="Afbeelding van @Model.Name" />
+            </div>
+        </div>
+
+        <div class="col-md-7">
+            <div>
+                <h6 class="text-muted mb-1"><strong>Geplaatst door:</strong> @Model.UserName</h6>
+                <h6 class="text-muted mb-3"><strong>Categorie:</strong> @Model.CategoryName</h6>
+                <h4 class="mb-3">@Model.Name</h4>
+
+                <div class="mb-3">
+                    <strong>Adres:</strong><br />
+                    @Model.Street @Model.Number, @Model.Zip @Model.City
+                </div>
+
+                <div class="mb-3">
+                    <strong>Beschrijving:</strong>
+                    <p>@Model.Description</p>
+                </div>
+
+                <div class="d-flex flex-wrap gap-2 mb-4">
+                    <a href="@Url.Action("Edit", "Gem", new { id = Model.Id })" class="btn btn-outline-primary">Wijzigen</a>
+                    <a href="@Url.Action("Delete", "Gem", new { id = Model.Id })" class="btn btn-outline-danger">Verwijderen</a>
+                    <a href="@Url.Action("Create", "Rating", new { id = Model.Id })" class="btn btn-outline-primary">★</a>
+                    <a href="@Url.Action("Index", "Gem")" class="btn btn-link ms-auto text-decoration-none">⬅ Terug naar overzicht</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="my-5" />
+
+    <div>
+        <h5 class="mb-3">@(Model.Ratings?.Count() ?? 0) Beoordelingen</h5>
+
+        @{
+            var avgRating = Model.Ratings?.Any() == true ? Model.Ratings.Average(r => r.Stars) : 0;
+        }
+
+        <p>
+            Gemiddelde beoordeling:
+            @for (int i = 1; i <= 5; i++)
+            {
+                <span class="text-warning">@((i <= avgRating) ? "★" : "☆")</span>
+            }
+            <span class="ms-1 text-muted">(@avgRating.ToString("0.0") / 5)</span>
+        </p>
+
+        @if (Model.Ratings?.Any() == true)
+        {
+            <hr class="my-5" />
+
+            @foreach (var rating in Model.Ratings.OrderByDescending(r => r.CreatedAt))
+            {
+                <div class="border rounded p-4 mb-4 shadow-sm bg-light">
+                    <div class="d-flex justify-content-between align-items-center mb-2">
+                        <div>
+                            <strong class="text-dark">@Model.UserName</strong>
+                            <span class="ms-2 text-warning">
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    <text>@(i <= rating.Stars ? "★" : "☆")</text>
+                                }
+                            </span>
+                        </div>
+                        <small class="text-muted">@rating.CreatedAt.ToString("dd MMM yyyy")</small>
+                    </div>
+                    <p class="mb-0">@rating.Comment</p>
+                </div>
+            }
+        }
+
+    </div>
+
+    <div class="mb-4">
+        <strong>Locatie op kaart:</strong>
+        <div id="gem-map" style="height: 300px; width: 100%;"></div>
+    </div>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetch('/Gem/Location/@Model.Id')
+                .then(response => response.json())
+                .then(data => {
+                    // Ik controleer of de longitude en latitude beschikbaar is
+                    if (data.latitude && data.longitude) {
+                        // Initialiseert de kaart
+                        var map = L.map('gem-map').setView([data.latitude, data.longitude], 17);
+                        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                            maxZoom: 19,
+                            attribution: '© OpenStreetMap'
+                        }).addTo(map);
+                        // Voegt een marker toe aan de kaart (met configuratie daarvan)
+                        L.marker([data.latitude, data.longitude], {
+                            icon: L.icon({
+                                iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+                                iconSize: [25, 41],
+                                iconAnchor: [12, 41],
+                                popupAnchor: [1, -34],
+                                shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+                                shadowSize: [41, 41]
+                            })
+                        }).addTo(map)
+                            .bindPopup(`<b>@Model.Name</b><br>@Model.Street @Model.Number<br>@Model.Zip @Model.City`).openPopup();
+                    } else {
+                        document.getElementById('gem-map').innerHTML = '<div class="text-muted">Geen locatie beschikbaar.</div>';
+                    }
+                })
+                .catch(() => {
+                    document.getElementById('gem-map').innerHTML = '<div class="text-muted">Locatie ophalen mislukt.</div>';
+                });
+        });
+    </script>
+</div>

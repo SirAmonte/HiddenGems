@@ -1,0 +1,11 @@
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\bin\Debug\net8.0\HiddenGems.Domain.deps.json
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\bin\Debug\net8.0\HiddenGems.Domain.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\bin\Debug\net8.0\HiddenGems.Domain.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\HiddenGems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\HiddenGems.Domain.AssemblyInfoInputs.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\HiddenGems.Domain.AssemblyInfo.cs
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\HiddenGems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\HiddenGems.Domain.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\refint\HiddenGems.Domain.dll
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\HiddenGems.Domain.pdb
+C:\Users\teoma\Documents\TI\Business Applications\HiddenGems\HiddenGems\HiddenGems.Domain\obj\Debug\net8.0\ref\HiddenGems.Domain.dll

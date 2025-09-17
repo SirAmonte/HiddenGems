@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\HiddenGems.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\HiddenGems.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\HiddenGems.Application.csproj",
+        "projectName": "HiddenGems.Application",
+        "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\HiddenGems.Application.csproj",
+        "packagesPath": "C:\\Users\\teoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\HiddenGems.Domain.csproj": {
+                "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\HiddenGems.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\HiddenGems.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\HiddenGems.Domain.csproj",
+        "projectName": "HiddenGems.Domain",
+        "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\HiddenGems.Domain.csproj",
+        "packagesPath": "C:\\Users\\teoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj",
+        "projectName": "HiddenGems.Infrastructure",
+        "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\teoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\HiddenGems.Application.csproj": {
+                "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Application\\HiddenGems.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\HiddenGems.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\HiddenGems.WebUI.csproj",
+        "projectName": "HiddenGems.WebUI",
+        "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\HiddenGems.WebUI.csproj",
+        "packagesPath": "C:\\Users\\teoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\teoma\\Documents\\TI\\Business Applications\\HiddenGems\\HiddenGems\\HiddenGems.Infrastructure\\HiddenGems.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
